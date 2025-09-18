@@ -81,4 +81,4 @@ Feel free to fork this project and submit pull requests for improvements!
 This project is open source and available under the MIT License.
 
 ---
-*Created for environmental data analysis and air quality monitoring* 
+*Created for environmental data analysis and air quality monitoring*  
